@@ -25,6 +25,18 @@ a:hover {
   color: #f2df74 !important;
 }
 
+.text-blue {
+  color: #004165 !important;
+}
+
+.text-maroon {
+  color: #772432 !important;
+}
+
+.text-red {
+  color: #cd202c !important;
+}
+
 h1,
 h2,
 h3,
@@ -448,7 +460,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #f2df74;
+  background-color: #cd202c;
 }
 
 .timeline > li .timeline-image h4 {
