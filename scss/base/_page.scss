@@ -81,3 +81,8 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+.text-highlight {
+  color: $maroon !important;
+  background-color: $primary !important;
+}
